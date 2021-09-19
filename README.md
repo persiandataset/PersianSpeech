@@ -9,3 +9,8 @@ Also, if you want to have a 30-hour dataset like this, you can contact me. hubar
 </br></br>
 myaudio_tiny is tiny dataset with a duration of 3 hours. </br>
 myaudio_full is big dataset with a duration of 30 hours. 
+
+Other sources:
+
+You can also use this <a href='https://fa.persianspeechcorpus.com/'>site</a>
+This ~ 2.5-hour Single-Speaker Speech corpus has been developed using the same methodologies used in the PhD work carried out by Nawar Halabi at the University of Southampton.
