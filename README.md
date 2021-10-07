@@ -13,7 +13,7 @@ myaudio_full is big dataset with a duration of 30 hours.
 Other sources:</br>
 
 1. Mozilla dataset : </br>
-Mozilla Company has started to produce a huge Persian dataset. In its version 7, the company has converted 293 hours of Persian audio to text and published it for free at this <a href='https://commonvoice.mozilla.org/en/datasets'>link</a> The sounds in this collection are usually short.</br>
+Mozilla Company has started to produce a huge Persian dataset. In its version 7, the company has converted 293 hours of Persian audio to text and published it for free at this <a href='https://commonvoice.mozilla.org/en/datasets'>link</a>. The sounds in this collection are usually short.</br>
 
 2. persianspeechcorpus :</br>
 You can also use this <a href='https://fa.persianspeechcorpus.com/'>site</a>. This ~ 2.5-hour Single-Speaker Speech corpus has been developed using the same methodologies used in the PhD work carried out by Nawar Halabi at the University of Southampton.</br>
