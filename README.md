@@ -8,7 +8,8 @@ This dataset is not copied from anywhere and it is my personal project that I pu
 Also, if you want to have a 86-hour dataset like this, you can contact me. hubare.ra[at]gmail.com [not free]
 </br></br>
 myaudio_tiny is tiny dataset with a duration of 3 hours. </br>
-myaudio_full is big dataset with a duration of 86 hours. 
+myaudio_full is big dataset with a duration of 30 hours.  </br>
+persian_v2 is is big datasat with a duration of 56 hours.
 
 Other sources:</br>
 
